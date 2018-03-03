@@ -11,6 +11,10 @@
       "check-space"
     ],
     "curly": true,
+    "trailing-comma": [
+      true,
+      {"multiline": "always", "singleline": "never"}
+    ],
     "deprecation": {
       "severity": "warn"
     },
